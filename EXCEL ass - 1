@@ -1,0 +1,13 @@
+What do you mean by cells in an excel sheet?
+Area on a spreadsheet to enter a data
+2. How can you restrict someone from copying a cell from your worksheet?
+to protect from cpying, go to menu -> review -> protect sheet -> password
+3. How to move or copy the worksheet into another workbook?
+on the window meny click the worksheet that ypu to move, click the sheet you wasnt to copy/ edit -> click sheet -> move or copy
+4. Which key is used as a shortcut for opening a new window document?
+control + N
+
+5. What are the things that we can notice after opening the Excel interface?
+tittle bar, meny bar, column headings, row headings, 
+6. When to use a relative cell reference in excel?
+that adjust and change when we copy or autofills
