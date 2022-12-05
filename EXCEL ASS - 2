@@ -1,0 +1,17 @@
+1.	What does the dollar($) sign do?
+IT means absolute reference
+2.	How to Change the Reference from Relative to Absolute (or Mixed)?
+
+3.	Explain the order of operations in excel?
+Calculation order, operator precedence, using paranthesis
+4.	What, according to you, are the top 5 functions in excel and write a basic syntaxfor any of two?
+5.	Sum() =sum(c2:c3)
+6.	Average() = AVERAGE(C1,C2,C3)
+7.	COUNT() = COUNT(C1:C2)
+SUBTOTAL()
+MODULUS()
+5. When would you use the subtotal function?
+IT IS DESIGNED FOR THE COLUMNS OF DATA.
+6. What is the syntax of the vlookup function? Explain the terms in it?
+VLOOKUP STANDS FOR VERTICAL LOOKUP
+VLOOKUP(). VLOOKUP CAN ONLY LOOK UP AT THE VALUE FROM LEFT TO RIGHT
