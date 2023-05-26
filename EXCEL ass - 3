@@ -1,0 +1,17 @@
+How and when to use AutoSUM in excel?    
+ANS - On top right cormer can see sigma symbol, which shows aggregate function like sum, min, max, avg etc, 
+eg if a row has set of numbers to add, from c2 to g2, slect cell next to g2 ie h2 click the autosum and press enter to get the total.
+shortcut for autosum
+Alt + =
+how to get rid of the formula that omits adjacent cell?
+Open Excel and then click on File.
+Go to Options and then select Formulas.
+Look for Error checking rules and uncheck Formulas which omit cells in a region.
+Click OK.
+How do you select non adjacent cells in Excel 2016?
+by holding ctrl key and selecting non adjacent cells or range.
+What happens if you choose a column, hold down the Alt key and press the letters
+ocw in quick succession? 
+the content of the first cell in  selected column will turn to OCW
+If you right-click on a row reference number and click on Insert, where will the row
+be added? just above that row
